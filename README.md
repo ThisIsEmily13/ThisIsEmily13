@@ -2,7 +2,7 @@
 - 👀 I’m interested in software development.
 - 🌱 I’m currently learning Java, Python, and C++
 - 💞️ I’m looking to collaborate on video game and other software projects.
-- 📫 How to reach me: urfavoritegamer on discord
+- 📫 How to reach me: ?
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I like basketball
 
